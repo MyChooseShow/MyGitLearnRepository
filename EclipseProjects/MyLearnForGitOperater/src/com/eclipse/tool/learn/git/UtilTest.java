@@ -1,6 +1,7 @@
 package com.eclipse.tool.learn.git;
 
 /**
+ * this is a test java file
  * This is a test file
  * @author ZCX
  *
@@ -12,6 +13,7 @@ public class UtilTest {
 		
 		System.out.println("Test operater!!");
 		
+		// Now is changed in service
 	}
 
 }
